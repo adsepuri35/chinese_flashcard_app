@@ -1,0 +1,754 @@
+lesson_number,hanzi,pinyin,translation,proficiency
+1,你,nǐ,"you, second person pronoun",0
+1,好,hǎo,"good, excellent, fine; well",0
+1,请,qǐng,"ask, request; invite; please",0
+1,问,wèn,"ask about, inquire after",0
+1,贵,guì,"expensive, costly, valuable",0
+1,姓,xìng,"one's family name; clan, people",0
+1,我,wǒ,"our, us, i, me, my, we",0
+1,呢,ne,interrogative or emphatic final; (Cant.) this,0
+1,小姐,xiǎojie,"young lady, miss, (slang) prostitute",0
+1,叫,jiào,"cry, shout; hail, greet, call",0
+1,什么,shénme,"what?, who?, something, anything",0
+1,名字,míngzi,name (of a person or thing),0
+1,先生,xiānsheng,"teacher, husband, doctor (dialect); Mister (Mr.)",0
+1,李,lǐ,plum; judge; surname,0
+1,王,wáng,"king, ruler; royal; surname",0
+1,是,shì,"indeed, yes, right; to be; demonstrative pronoun, this, that",0
+1,老师,lǎoshī,teacher,0
+1,吗,ma,final interrogative particle,0
+1,不,bù,"no, not; un-; negative prefix",0
+1,学生,xuésheng,"student, schoolchild",0
+1,也,yě,also; classical final particle of strong affirmation or identity,0
+1,人,rén,man; people; mankind; someone else,0
+1,中国,zhōngguó,China,0
+1,北京,běijīng,"Beijing, capital of People's Republic of China, Peking, PRC government",0
+1,美国,měiguó,"United States, USA, US",0
+1,纽约,niǔyuē,New York,0
+2,哥哥,gēge,older brother,0
+2,两,liǎng,"two, both, pair, couple; ounce",0
+2,妹妹,mèimei,"younger sister, young woman",0
+2,和,hé,"and, together with; harmony, peace",0
+2,大姐,dàjiě,"big sister, elder sister, older sister (also polite term of address for a girl or woman slightly older than the speaker)",0
+2,做,zuò,"work, make; act",0
+2,工作,gōngzuò,"to work, (of a machine) to operate, job, work, task",0
+2,律师,lǜshī,lawyer,0
+2,英文,yīngwén,English (language) (…wen),0
+2,都,"dōu, dū","metropolis, capital; all, the whole; elegant, refined",0
+2,大学生,dàxuéshēng,"university student, college student",0
+2,大学,dàxué,"university, college; the Great Learning, one of the Four Books 四书 in Confucianism",0
+2,医生,yīshēng,doctor,0
+2,那,nà,"that, that one, those",0
+2,的,de,"possessive, adjectival suffix",0
+2,照片,zhàopiàn,"photograph, picture",0
+2,这,zhè,"this, the, here",0
+2,爸爸,bàba,(informal) father,0
+2,妈妈,māma,"mama, mommy, mother",0
+2,个,gè,"numerary adjunct, piece; single",0
+2,女,nǚ,"woman, girl; feminine; rad. 38",0
+2,孩子,háizi,child (…zi),0
+2,谁,shéi,who? whom? whose? anyone?,0
+2,她,tā,"she, her",0
+2,姐姐,jiějie,older sister,0
+2,男,nán,"male, man; son; baron; surname",0
+2,弟弟,dìdi,younger brother,0
+2,他,tā,"other, another; he, she, it",0
+2,大哥,dàgē,"eldest brother, big brother (polite address for a man of about the same age as oneself), gang leader, boss",0
+2,儿子,érzi,son,0
+2,有,yǒu,"have, own, possess; exist",0
+2,女儿,nǚ'ér,daughter,0
+2,没,méi,"not, have not, none; drown, sink",0
+2,高,gāo,"high, tall; lofty, elevated",0
+2,家,jiā,"house, home, residence; family",0
+2,几,jǐ,small table,0
+2,口,kǒu,"mouth; open end; entrance, gate",0
+3,九月,jiǔyuè,"September, ninth month (of the lunar year)",0
+3,月,yuè,moon; month; KangXi radical 74,0
+3,十二,shí'èr,"twelve, 12",0
+3,号,hào,"mark, sign; symbol; number",0
+3,星期,xīngqī,"week, day of the week, Sunday",0
+3,星期四,xīngqīsì,Thursday,0
+3,天,tiān,"sky, heaven; god, celestial",0
+3,生日,shēngrì,birthday,0
+3,生,shēng,"life, living, lifetime; birth",0
+3,日,rì,sun; day; daytime,0
+3,今年,jīnnián,this year,0
+3,年,nián,year; new-years; person's age,0
+3,多,duō,"much, many; more than, over",0
+3,大,dà,"big, great, vast, large, high",0
+3,十八,shíbā,"eighteen, 18",0
+3,岁,suì,year; age; harvest,0
+3,吃,chī,"eat; drink; suffer, endure, bear",0
+3,饭,fàn,"cooked rice; food, meal",0
+3,怎么样,zěnmeyàng,"how?, how about?, how was it?, how are things?",0
+3,谢谢,xièxie,"to thank, thanks, thank you",0
+3,喜欢,xǐhuan,"to like, to be fond of",0
+3,菜,cài,"vegetables; dish, order; food",0
+3,还是,háishi,"or, still, nevertheless, had better",0
+3,可是,kěshì,"but, however, (used for emphasis) indeed",0
+3,我们,wǒmen,"we, us, ourselves, our",0
+3,点,diǎn,"dot, speck, spot; point, degree",0
+3,半,bàn,half,0
+3,晚上,wǎnshang,"evening, night, in the evening",0
+3,见,jiàn,"see, observe, behold; perceive",0
+3,再见,zàijiàn,"goodbye, see you again later",0
+3,再,zài,"again, twice, re-",0
+3,英国,yīngguó,"United Kingdom 联合王国, United Kingdom of Great Britain and Northern Ireland, abbr. for England 英格兰",0
+3,现在,xiànzài,"now, at present, at the moment, modern, current, nowadays",0
+3,刻,kè,"carve, engrave; quarter hour",0
+3,事,shì,"affair, matter, business; to serve; accident, incident",0
+3,今天,jīntiān,"today, at the present, now",0
+3,很,hěn,"very, quite, much",0
+3,忙,máng,"busy, pressed for time; hustling",0
+3,明天,míngtiān,tomorrow,0
+3,晚饭,wǎnfàn,"evening meal, dinner, supper",0
+3,为什么,wèishénme,"why?, for what reason?",0
+3,为,wèi,"do, handle, govern, act; be",0
+3,因为,yīnwèi,"because, owing to, on account of",0
+3,还,hái,"still, yet, also, besides",0
+3,同学,tóngxué,"to study at the same school, fellow student, classmate",0
+3,认识,rènshi,"to know, to recognize, to be familiar with, to get acquainted with sb, knowledge, understanding, awareness, cognition",0
+3,朋友,péngyou,friend,0
+4,觉,jué,to wake up from sleep; conscious,0
+4,算了,suànle,"let it be, let it pass, forget about it",0
+4,找,zhǎo,"search, seek, look for; find",0
+4,别人,biéren,"other people, others, other person",0
+4,别,bié,"separate, other; do not",0
+4,周末,zhōumò,weekend,0
+4,打球,dǎqiú,"to play ball, to play with a ball",0
+4,打,dǎ,"strike, hit, beat; fight; attack",0
+4,球,qiú,"ball, sphere, globe; round",0
+4,看,kàn,"look, see; examine, scrutinize",0
+4,电视,diànshì,"television, TV",0
+4,电,diàn,electricity; electric; lightning,0
+4,视,shì,"look at, inspect, observe, see",0
+4,唱歌,chànggē,to sing a song,0
+4,唱,chàng,"sing, chant, call; ditty, song",0
+4,歌,gē,"song, lyrics; sing, chant; praise",0
+4,跳舞,tiàowǔ,to dance,0
+4,跳,tiào,"jump, leap, vault, bounce; dance",0
+4,舞,wǔ,"dance, posture, prance; brandish",0
+4,听,tīng,"hear; understand; obey, comply",0
+4,音乐,yīnyuè,music,0
+4,书,shū,"book, letter, document; writings",0
+4,对,duì,"correct, right; facing, opposed",0
+4,有的,yǒude,"(there are) some (who are...), some (exist)",0
+4,时候,shíhou,"time, length of time, moment, period",0
+4,电影,diànyǐng,"movie, film",0
+4,影,yǐng,"shadow; image, reflection; photograph",0
+4,常常,chángcháng,"frequently, usually, often",0
+4,去,qù,"go away, leave, depart",0
+4,外国,wàiguó,foreign (country),0
+4,请客,qǐngkè,"to give a dinner party, to entertain guests, to invite to dinner",0
+4,昨天,zuótiān,yesterday,0
+4,所以,suǒyǐ,"therefore, as a result, so, the reason why",0
+4,小,xiǎo,"small, tiny, insignificant",0
+4,好久,hǎojiǔ,quite a while,0
+4,久,jiǔ,"long time (ago); time passage, grow late",0
+4,不错,bùcuò,"correct, right, not bad, pretty good",0
+4,错,cuò,"error, blunder, mistake; wrong",0
+4,想,xiǎng,"think, speculate, plan, consider",0
+4,觉得,juéde,"to think, to feel",0
+4,有意思,yǒuyìsi,"interesting, meaningful, enjoyable, fun",0
+4,意思,yìsi,"idea, opinion, meaning, wish, desire, interest, fun, token of appreciation, affection etc, to give as a small token, to do sth as a gesture of goodwill etc",0
+4,只,zhǐ,"only, just, simply",0
+4,睡觉,shuìjiào,"to go to bed, to sleep",0
+4,睡,shuì,"sleep, doze",0
+5,呀,ya,particle used to express surprise or mild emphasis; (Cant.) slurred form of the number ten,0
+5,进,jìn,"advance, make progress, enter",0
+5,快,kuài,"rapid, quick, speedy, fast; soon",0
+5,进来,jìnlái,to come in,0
+5,来,lái,"come, coming; return, returning",0
+5,介绍,jièshào,"to introduce (sb to sb), to give a presentation, to present (sb for a job etc), introduction",0
+5,一下,yīxià,"(used after a verb) give it a go, to do (sth for a bit to give it a try), one time, once, in a while, all of a sudden, all at once",0
+5,高兴,gāoxìng,"happy, glad, willing (to do sth), in a cheerful mood",0
+5,漂亮,piàoliang,"pretty, beautiful",0
+5,坐,zuò,"sit; seat; ride, travel by",0
+5,在,zài,"be at, in, on; consist in, rest",0
+5,哪儿,nǎr,"where?, wherever, anywhere",0
+5,学校,xuéxiào,school,0
+5,喝,hē,"drink; shout, call out",0
+5,茶,chá,tea,0
+5,咖啡,kāfēi,coffee (loanword),0
+5,吧,ba,emphatic final particle,0
+5,要,yào,"necessary, essential; necessity",0
+5,瓶,píng,"jug, pitcher, vase, jar, bottle",0
+5,可乐,kělè,"amusing, entertaining, (loanword) cola",0
+5,可以,kěyǐ,"can, may, possible, able to, not bad, pretty good",0
+5,对不起,duìbuqǐ,"unworthy, to let down, I'm sorry, excuse me, pardon me, if you please, sorry? (please repeat)",0
+5,给,gěi,"give; by, for",0
+5,杯,bēi,"cup, glass",0
+5,水,shuǐ,"water, liquid, lotion, juice",0
+5,玩,wán,"play with, joke, enjoy",0
+5,了,le,to finish; particle of completed action,0
+5,图书馆,túshūguǎn,library,0
+5,一起,yīqǐ,"in the same place, together, with, altogether (in total)",0
+5,聊天,liáotiān,"to chat, to gossip",0
+5,聊,liáo,"somewhat, slightly, at least",0
+5,才,cái,"talent, ability; just, only",0
+5,回家,huíjiā,to return home,0
+5,回,huí,"return, turn around; a time",0
+6,打电话,dǎdiànhuà,to make a telephone call,0
+6,电话,diànhuà,"telephone, phone call, phone number",0
+6,喂,wèi,interjection to call attention,0
+6,就,jiù,"just, simply; to come, go to; to approach, near",0
+6,您,nín,honorific for 'you',0
+6,哪,nǎ,which? where? how?,0
+6,位,wèi,"throne; position, post; rank, status; seat",0
+6,下午,xiàwǔ,"afternoon, p.m.",0
+6,时间,shíjiān,"time, period",0
+6,问题,wèntí,"question, problem, issue, topic",0
+6,开会,kāihuì,"to hold a meeting, to attend a meeting",0
+6,开,kāi,"open; initiate, begin, start",0
+6,会,huì,"assemble, meet together; meeting",0
+6,上午,shàngwǔ,morning,0
+6,节,jié,"knot, node, joint; section",0
+6,课,kè,lesson; course; classwork,0
+6,年级,niánjí,"grade, year (in school, college etc)",0
+6,考试,kǎoshì,"to take an exam, exam",0
+6,考,kǎo,"examine, test; investigate",0
+6,试,shì,"test, try, experiment",0
+6,以后,yǐhòu,"after, later, afterwards, following, later on, in the future",0
+6,空,kōng,"empty, hollow, bare, deserted",0
+6,要是,yàoshi,if,0
+6,方便,fāngbiàn,"convenient, suitable, to facilitate, to make things easy, having money to spare, (euphemism) to relieve oneself",0
+6,到,dào,"go to, arrive, been to",0
+6,办公室,bàngōngshì,"office, business premises, bureau",0
+6,行,xíng,"go; walk; move, travel; circulate",0
+6,等,děng,"rank, grade; wait; equal; 'etc.'",0
+6,客气,kèqi,"polite, courteous, formal, modest",0
+6,下,xià,"under, underneath, below; down; inferior; bring down",0
+6,中文,zhōngwén,Chinese language,0
+6,文,wén,"literature, culture, writing",0
+6,帮,bāng,"help, assist; defend; shoe upper",0
+6,准备,zhǔnbèi,"preparation, to prepare, to intend, to be about to, reserve (fund)",0
+6,练习,liànxí,"to practice, exercise, drill, practice",0
+6,说,shuō,"speak, say, talk; scold, upbraid",0
+6,啊,a,exclamatory particle,0
+6,但是,dànshì,"but, however",0
+6,得,dé,"obtain, get, gain, acquire",0
+6,跟,gēn,"heel; to follow, accompany; with",0
+6,见面,jiànmiàn,"to meet, to see each other",0
+6,面,miàn,"face; surface; plane; side, dimension",0
+6,回来,huílai,"to return, to come back (…lai)",0
+7,说话,shuōhuà,"to speak, to say, to talk, to gossip, to tell stories, talk, word",0
+7,话,huà,"speech, talk, language; dialect",0
+7,上个,shàngge,"first (of two parts), last (week etc), previous, the above",0
+7,复习,fùxí,"to review, revision",0
+7,写,xiě,"write; draw, sketch; compose",0
+7,字,zì,"letter, character, word",0
+7,慢,màn,"slow(ly), leisurely, sluggish",0
+7,枝,zhī,"branches, limbs; branch off",0
+7,笔,bǐ,writing brush; write; stroke,0
+7,张,zhāng,"stretch, extend, expand; sheet",0
+7,纸,zhǐ,paper,0
+7,教,jiào,"teach, class",0
+7,怎么,zěnme,"how?, what?, why?",0
+7,懂,dǒng,"understand, comprehend",0
+7,真,zhēn,"real, actual, true, genuine",0
+7,哪里,nǎlǐ,"where?, somewhere, anywhere, wherever, nowhere (negative answer to question), humble expression denying compliment; where?, somewhere, anywhere, wherever, nowhere (negative answer to question), humble expression denying compliment, also written 哪里",0
+7,它,tā,it; other,0
+7,预习,yùxí,to prepare a lesson,0
+7,学,xué,"learning, knowledge; school",0
+7,第,dì,"sequence, number; grade, degree",0
+7,语法,yǔfǎ,grammar,0
+7,容易,róngyì,"easy, likely, liable (to)",0
+7,生词,shēngcí,"new word (in textbook), word that is unfamiliar or not yet studied",0
+7,汉字,hànzì,"Chinese character, Japanese: kanji, Korean: hanja, Vietnamese: hán tự",0
+7,难,nán,"difficult, arduous, hard; unable",0
+7,平常,píngcháng,"ordinary, common, usually, ordinarily",0
+7,早,zǎo,early; soon; morning,0
+7,这么,zhème,"so much, this much, how much?, this way, like this",0
+7,晚,wǎn,"night, evening; late",0
+7,早上,zǎoshang,early morning (…shang),0
+7,功课,gōngkè,"homework, assignment, task, classwork, lesson, study",0
+7,大家,dàjiā,"everyone, influential family, great expert",0
+7,上课,shàngkè,"to go to class, to attend class, to go to teach a class",0
+7,开始,kāishǐ,"to begin, beginning, to start, initial",0
+7,念,niàn,"think of, recall, study",0
+7,课文,kèwén,text,0
+7,录音,lùyīn,"to record (sound), sound recording",0
+7,学习,xuéxí,"to learn, to study",0
+7,帅,shuài,"commander, commander-in-chief",0
+7,酷,kù,"strong, stimulating; very",0
+8,这儿,zhèr,here,0
+8,刷卡,shuākǎ,"to use a credit card (or swipe card, smart card etc)",0
+8,篇,piān,"chapter, section, essay, article",0
+8,日记,rìjì,diary,0
+8,累,lèi,"tired; implicate, involve; bother",0
+8,起床,qǐchuáng,"to get out of bed, to get up",0
+8,床,chuáng,"bed, couch; framework, chassis",0
+8,洗澡,xǐzǎo,"to bathe, to take a shower",0
+8,早饭,zǎofàn,breakfast,0
+8,一边,yībiān,"one side, either side, on the one hand, on the other hand, doing while",0
+8,教室,jiàoshì,classroom,0
+8,发音,fāyīn,"to pronounce, pronunciation, to emit sound",0
+8,新,xīn,"new, recent, fresh, modern",0
+8,电脑,diànnǎo,computer,0
+8,脑,nǎo,brain,0
+8,中午,zhōngwǔ,"noon, midday",0
+8,餐厅,cāntīng,"dining hall, dining room, restaurant",0
+8,午饭,wǔfàn,lunch,0
+8,上网,shàngwǎng,"to go online, to connect to the Internet, (of a document etc) to be uploaded to the Internet, (tennis, volleyball etc) to move in close to the net",0
+8,宿舍,sùshè,"dormitory, dorm room, living quarters, hostel",0
+8,那儿,nàr,there,0
+8,正在,zhèngzài,"just at (that time), right in (that place), right in the middle of (doing sth)",0
+8,以前,yǐqián,"before, formerly, previous, ago",0
+8,告诉,"gàosu, gàosù","to tell, to inform, to let know; to press charges, to file a complaint",0
+8,已经,yǐjīng,already,0
+8,知道,zhīdào,"to know, to become aware of, undefined",0
+8,封,fēng,"letter, envelope; feudal",0
+8,信,xìn,"trust, believe; letter",0
+8,最近,zuìjìn,"recent, recently, these days, latest, soon, nearest (of locations), shortest (of routes)",0
+8,最,zuì,"most, extremely, exceedingly",0
+8,近,jìn,"near, close; approach; intimate",0
+8,学期,xuéqī,"term, semester",0
+8,专业,zhuānyè,"specialty, specialized field, main field of study (at university), major, professional",0
+8,后来,hòulái,"afterwards, later",0
+8,音乐会,yīnyuèhuì,concert,0
+8,希望,xīwàng,"to wish for, to desire, hope",0
+8,能,néng,"to be able; can, permitted to; ability",0
+8,用,yòng,"use, employ, apply, operate; use",0
+8,笑,xiào,"smile, laugh, giggle; snicker",0
+8,祝,zhù,pray for happiness or blessings,0
+9,刷,shuā,"brush; clean with brush, scrub",0
+9,卡,kǎ,"card, punch card; calorie",0
+9,收,shōu,"gather together, collect; harvest",0
+9,信用卡,xìnyòngkǎ,credit card,0
+9,不过,bùguò,"only, merely, no more than, but, however, anyway (to get back to a previous topic), cannot be more (after adjectival)",0
+9,付钱,fùqián,to pay money,0
+9,付,fù,"give, deliver, pay, hand over; entrust",0
+9,商店,shāngdiàn,"store, shop",0
+9,买,mǎi,"buy, purchase; bribe, persuade",0
+9,东西,"dōngxi, dōngxī","thing, stuff, person; east and west",0
+9,售货员,shòuhuòyuán,salesperson,0
+9,衣服,yīfu,clothes,0
+9,件,jiàn,numerary adjunct for article; matter,0
+9,衬衫,chènshān,"shirt, blouse",0
+9,颜色,yánsè,"color, countenance, appearance, facial expression, pigment, dyestuff",0
+9,黄,huáng,yellow; surname,0
+9,红,hóng,"red, vermillion; blush, flush",0
+9,穿,chuān,"penetrate, pierce, drill; wear",0
+9,条,tiáo,"clause, condition; string, stripe",0
+9,裤子,kùzi,"trousers, pants",0
+9,中,zhōng,"central; center, middle; in the midst of; hit (target); attain",0
+9,便宜,"piányi, biànyí","cheap, inexpensive, small advantages, to let sb off lightly; convenient",0
+9,长短,chángduǎn,"length, duration, accident, right and wrong, good and bad, long and short",0
+9,长,zhǎng,long; length; excel in; leader,0
+9,短,duǎn,"short; brief; deficient, lacking",0
+9,合适,héshì,"suitable, fitting, appropriate",0
+9,不用,bùyòng,need not,0
+9,一共,yīgòng,altogether,0
+9,多少,"duōshao, duōshǎo","how much, how many, which (number), as much as; number, amount, somewhat",0
+9,钱,qián,"money, currency, coins",0
+9,块,kuài,"piece, lump; dollar",0
+9,毛,máo,"hair, fur, feathers; coarse",0
+9,分,fēn,divide; small unit of time etc.,0
+9,百,bǎi,"one hundred; numerous, many",0
+9,双,shuāng,"set of two, pair, couple; both",0
+9,鞋,xié,"shoes, footwear in general",0
+9,换,huàn,change,0
+9,一样,yīyàng,"same, like, equal to, the same as, just like",0
+9,虽然,suīrán,"although, even though, even if",0
+9,大小,dàxiǎo,"dimension, magnitude, size, measurement, large and small, at any rate, adults and children, consideration of seniority",0
+9,咖啡色,kāfēisè,"coffee color, brown",0
+9,种,zhǒng,"seed; race, breed; to plant",0
+9,黑,hēi,"black; dark; evil, sinister",0
+9,样子,yàngzi,"appearance, manner, pattern, model",0
+9,挺,tǐng,"to stand upright, straighten; rigid",0
+10,寒假,hánjià,winter vacation,0
+10,飞机,fēijī,airplane,0
+10,飞,fēi,fly; go quickly; dart; high,0
+10,机,jī,desk; machine; moment,0
+10,票,piào,slip of paper or bamboo; ticket,0
+10,机场,jīchǎng,"airport, airfield",0
+10,公共汽车,gōnggòngqìchē,bus,0
+10,公共,gōnggòng,"public, common, communal",0
+10,汽车,qìchē,"car, automobile, bus",0
+10,车,chē,"cart, vehicle; carry in cart",0
+10,或者,huòzhě,"or, possibly, maybe, perhaps",0
+10,地铁,dìtiě,"subway, metro",0
+10,走,zǒu,"walk, go on foot; run; leave",0
+10,先,xiān,"first, former, previous",0
+10,站,zhàn,"stand up; a stand, station",0
+10,下车,xiàchē,"to get off or out of (a bus, train, car etc)",0
+10,然后,ránhòu,"after, then (afterwards), after that, afterwards",0
+10,绿,lǜ,green; chlorine,0
+10,线,xiàn,"line, thread, wire; clue",0
+10,最后,zuìhòu,"final, last, finally, ultimate",0
+10,蓝,lán,blue; indigo plant; surname,0
+10,麻烦,máfan,"inconvenient, troublesome, annoying, to trouble or bother sb, to put sb to trouble",0
+10,打车,dǎchē,"to take a taxi (in town), to hitch a lift",0
+10,出租汽车,chūzūqìchē,"taxi, cab (PRC), hire car (Tw)",0
+10,出租,chūzū,to rent,0
+10,租,zū,"rent, lease; rental; tax",0
+10,开车,kāichē,to drive a car,0
+10,送,sòng,"see off, send off; dispatch, give",0
+10,电子邮件,diànzǐyóujiàn,email,0
+10,电子,diànzǐ,"electronic, electron (particle physics)",0
+10,让,ràng,"allow, permit, yield, concede",0
+10,花,huā,flower; blossoms,0
+10,不好意思,bùhǎoyìsi,"to feel embarrassed, to find it embarrassing, to be sorry (for inconveniencing sb)",0
+10,每,měi,"every, each",0
+10,城市,chéngshì,"city, town",0
+10,特别,tèbié,"especially, special, particular, unusual",0
+10,高速公路,gāosùgōnglù,"expressway, highway, freeway",0
+10,高速,gāosù,high speed,0
+10,公路,gōnglù,"highway, road",0
+10,路,lù,"road, path, street; journey",0
+10,紧张,jǐnzhāng,"nervous, keyed up, intense, tense, strained, in short supply, scarce",0
+10,自己,zìjǐ,"oneself, one's own",0
+10,手机,shǒujī,"cell phone, mobile phone",0
+10,发短信,fāduǎnxìn,"to text, to send SMS messages",0
+10,新年,xīnnián,New Year,0
+10,快乐,kuàilè,"happy, merry",0
+11,天气,tiānqì,weather,0
+11,比,bǐ,"to compare, liken; comparison; than",0
+11,下雪,xiàxuě,to snow,0
+11,约,yuē,"treaty, agreement, covenant",0
+11,公园,gōngyuán,park (for public recreation),0
+11,滑冰,huábīng,"to skate, skating",0
+11,刚才,gāngcái,"(just) a moment ago; just now, a moment ago",0
+11,网上,wǎngshàng,online,0
+11,预报,yùbào,forecast,0
+11,更,gèng,"more, still further, much more",0
+11,暖和,nuǎnhuo,"warm, nice and warm",0
+11,冷,lěng,"cold, cool; lonely",0
+11,办,bàn,"manage, do, handle; deal with",0
+11,碟,dié,"small dish, plate",0
+11,那么,nàme,"like that, in that way, or so, so, so very much, about, in that case",0
+11,好玩儿,hǎowánr,"interesting, delightful, amusing",0
+11,出去,chūqù,to go out,0
+11,非常,fēicháng,"very, very much, unusual, extraordinary",0
+11,糟糕,zāogāo,"too bad, how terrible, what bad luck, terrible, bad",0
+11,下雨,xiàyǔ,to rain,0
+11,又,yòu,"and, also, again, in addition",0
+11,面试,miànshì,"to be interviewed (as a candidate), interview",0
+11,回去,huíqu,"to return, to go back (…qu)",0
+11,冬天,dōngtiān,winter,0
+11,夏天,xiàtiān,summer,0
+11,热,rè,hot; heat; fever; restless; zeal,0
+11,春天,chūntiān,spring (season),0
+11,秋天,qiūtiān,autumn,0
+11,舒服,shūfu,"comfortable, feeling well",0
+11,加州,jiāzhōu,California,0
+12,饭馆,fànguǎn,restaurant,0
+12,好像,hǎoxiàng,"as if, to seem like",0
+12,位子,wèizi,"place, seat",0
+12,服务员,fúwùyuán,"waiter, waitress, attendant, customer service personnel",0
+12,服务,fúwù,"to serve, service",0
+12,桌子,zhuōzi,"table, desk",0
+12,点菜,diǎncài,to order dishes (in a restaurant),0
+12,盘,pán,"tray, plate, dish; examine",0
+12,饺子,jiǎozi,"dumpling, pot-sticker",0
+12,素,sù,white (silk); plain; vegetarian; formerly; normally,0
+12,家常,jiācháng,the daily life of a family,0
+12,豆腐,dòufu,"tofu, bean curd",0
+12,放,fàng,"put, release, free, liberate",0
+12,肉,ròu,flesh; meat; KangXi radical 130,0
+12,碗,wǎn,"bowl, small dish",0
+12,酸辣汤,suānlàtāng,"hot and sour soup, sour and spicy soup",0
+12,酸,suān,"tart, sour; acid; stiff; spoiled",0
+12,辣,là,"peppery, pungent, hot; cruel",0
+12,汤,tāng,"hot water; soup, gravy, broth",0
+12,味精,wèijīng,monosodium glutamate (MSG),0
+12,盐,yán,salt,0
+12,白菜,báicài,"Chinese cabbage, pak choi",0
+12,刚,gāng,"hard, tough, rigid, strong",0
+12,卖完,màiwán,to be sold out,0
+12,完,wán,"complete, finish, settle; whole",0
+12,青菜,qīngcài,"green vegetables, Chinese cabbage",0
+12,冰茶,bīngchá,iced tea,0
+12,冰,bīng,ice; ice-cold,0
+12,渴,kě,"thirsty, parched; yearn, pine",0
+12,些,xiē,"little, few; rather, somewhat",0
+12,够,gòu,"enough, adequate",0
+12,饿,è,hungry; greedy for; hunger,0
+12,上菜,shàngcài,"to serve, also to put on plate",0
+12,师傅,shīfu,"master, qualified worker, respectful form of address for older men",0
+12,好吃,"hàochī, hǎochī","to be fond of eating, to be gluttonous; tasty, delicious",0
+12,糖醋鱼,tángcùyú,sweet and sour fish,0
+12,糖,táng,sugar; candy; sweets,0
+12,醋,cù,"vinegar; jealousy, envy",0
+12,甜,tián,"sweet, sweetness",0
+12,极,jí,"extreme, utmost, furthest, final",0
+12,红烧,hóngshāo,simmer-fried (dish),0
+12,牛肉,niúròu,beef,0
+12,牛,niú,"cow, ox, bull; KangXi radical93",0
+12,鱼,yú,fish; surname; KangXi radical 195,0
+12,凉拌,liángbàn,"salad with dressing, cold vegetables dressed with sauce (e.g. coleslaw)",0
+12,黄瓜,huángguā,cucumber,0
+12,米饭,mǐfàn,(cooked) rice,0
+12,忘,wàng,"forget; neglect; miss, omit",0
+12,带,dài,"belt, girdle, band, strap, zone",0
+12,清楚,qīngchu,"clear, distinct, to understand thoroughly, to be clear about",0
+12,没关系,méiguānxi,it doesn't matter,0
+12,上海,shànghǎi,"Shanghai municipality, central east China, abbr. to 沪",0
+13,上,shàng,"top; superior, highest; go up, send up",0
+13,中心,zhōngxīn,"center, heart, core",0
+13,听说,tīngshuō,"to hear (sth said), one hears (that), hearsay, listening and speaking",0
+13,运动,yùndòng,"to move, to exercise, sports, exercise, motion, movement, campaign",0
+13,场,chǎng,"open space, field, market",0
+13,旁边,pángbiān,"lateral, side, to the side, beside",0
+13,远,yuǎn,"distant, remote, far; profound",0
+13,离,lí,rare beast; strange; elegant,0
+13,活动,huódòng,"to exercise, to move about, to operate, to use connections (personal influence), loose, shaky, active, movable, activity, campaign, maneuver, behavior",0
+13,中间,zhōngjiān,"between, intermediate, mid, middle",0
+13,书店,shūdiàn,bookstore,0
+13,地方,"dìfang, dìfāng","area, place, space, room, territory; region, regional (away from the central administration), local",0
+13,里边,lǐbian,inside,0
+13,过,guò,"pass, pass through, go across",0
+13,中国城,zhōngguóchéng,Chinatown,0
+13,城,chéng,"castle; city, town; municipality",0
+13,地图,dìtú,map,0
+13,拿,ná,"take, hold, grasp; bring; with",0
+13,次,cì,"order, sequence; next",0
+13,从,cóng,"from, by, since, whence, through",0
+13,一直,yīzhí,"straight (in a straight line), continuously, always, from the beginning of ... up to ..., all along",0
+13,往,wǎng,"go, depart; past, formerly",0
+13,南,nán,south; southern part; southward,0
+13,路口,lùkǒu,"crossing, intersection (of roads)",0
+13,西,xī,"west(ern); westward, occident",0
+13,拐,guǎi,"kidnap, abduct; turn",0
+13,哎,āi,interjection of surprise,0
+13,东,dōng,"east, eastern, eastward",0
+13,北,běi,north; northern; northward,0
+13,前,qián,"in front, forward; preceding",0
+13,红绿灯,hónglǜdēng,"traffic light, traffic signal",0
+13,灯,dēng,"lantern, lamp",0
+13,右,yòu,right; west; right-wing,0
+13,左,zuǒ,"left; east; unorthodox, improper",0
+13,前面,qiánmiàn,"ahead, in front, preceding, above",0
+13,日文,rìwén,Japanese (language),0
+13,东京,dōngjīng,"Tokyo, capital of Japan, Tonkin, northern Vietnam during the French colonial period",0
+13,日本,rìběn,"Japan, Japanese",0
+14,舞会,wǔhuì,"dance, ball, party",0
+14,表姐,biǎojiě,older female cousin via female line,0
+14,中学,zhōngxué,middle school,0
+14,礼物,lǐwù,"gift, present",0
+14,本,běn,"root, origin, source; basis",0
+14,饮料,yǐnliào,"drink, beverage",0
+14,水果,shuǐguǒ,fruit,0
+14,把,bǎ,"hold, take; guard; regard as",0
+14,爱,ài,"love, be fond of, like",0
+14,苹果,píngguǒ,apple,0
+14,梨,lí,"pear; opera; cut, slash",0
+14,西瓜,xīguā,watermelon,0
+14,住,zhù,"reside, live at, dwell, lodge; stop",0
+14,重,zhòng,"heavy, weighty; double",0
+14,接,jiē,receive; continue; catch; connect,0
+14,楼,lóu,building of two or more stories,0
+14,钟头,zhōngtóu,hour (zhong…),0
+14,以为,yǐwéi,"to believe, to think, to consider, to be under the impression",0
+14,聪明,cōngming,"intelligent, clever, bright, smart, acute (of sight and hearing)",0
+14,用功,yònggōng,"diligent, industrious (in one's studies), to study hard, to make great effort",0
+14,暑期,shǔqī,summer vacation time,0
+14,班,bān,"class, group, grade; squad; job",0
+14,可爱,kě'ài,"adorable, cute, lovely",0
+14,去年,qùnián,last year,0
+14,属,shǔ,"class, category, type; belong to",0
+14,狗,gǒu,"dog, canis familiaris",0
+14,脸,liǎn,face; cheek; reputation,0
+14,圆,yuán,"circle; round, circular; complete",0
+14,眼睛,yǎnjing,eye,0
+14,鼻子,bízi,nose,0
+14,嘴,zuǐ,"mouth, lips",0
+14,像,xiàng,"a picture, image, figure; to resemble",0
+14,长大,zhǎngdà,to grow up,0
+14,一定,yīdìng,"surely, certainly, necessarily, fixed, a certain (extent etc), given, particular, must",0
+14,蛋糕,dàngāo,cake,0
+14,海伦,hǎilún,"Hailun county level city in Suihua 绥化 Heilongjiang, Helen or Hélène (name)",0
+14,汤姆,tāngmǔ,Tom (name),0
+15,医院,yīyuàn,hospital,0
+15,看病,kànbìng,"to visit a doctor, to see a patient",0
+15,病,bìng,"illness, sickness, disease",0
+15,病人,bìngrén,"sick person, patient, invalid",0
+15,肚子,dùzi,"belly, abdomen, stomach",0
+15,疼死,téngsǐ,to really hurt,0
+15,疼,téng,"aches, pains; be fond of; love",0
+15,死,sǐ,die; dead; death,0
+15,夜里,yèli,"during the night, at night, nighttime",0
+15,好几,hǎojǐ,"several, quite a few",0
+15,厕所,cèsuǒ,"toilet, lavatory",0
+15,冰箱,bīngxiāng,"icebox, freezer cabinet, refrigerator",0
+15,发烧,fāshāo,"to have a high temperature (from illness), to have a fever",0
+15,躺下,tǎngxià,to lie down,0
+15,躺,tǎng,"lie down, recline",0
+15,检查,jiǎnchá,"inspection, to examine, to inspect",0
+15,吃坏,chīhuài,to get sick because of bad food,0
+15,坏,huài,"rotten, spoilt, bad, broken down",0
+15,打针,dǎzhēn,to give or have an injection,0
+15,针,zhēn,needle; pin; tack; acupuncture,0
+15,药,yào,leaf of Dahurian angelica plant; medicine,0
+15,片,piàn,"slice, splinter, strip; rad. 91",0
+15,遍,biàn,"everywhere, all over, throughout",0
+15,最好,zuìhǎo,"best, (you) had better (do what we suggest)",0
+15,小时,xiǎoshí,hour (xiao…),0
+15,办法,bànfǎ,"means, method, way (of doing sth)",0
+15,感冒,gǎnmào,"to catch cold, (common) cold, (coll.) to be interested in (often used in the negative), (Tw) to detest, can't stand",0
+15,生病,shēngbìng,to fall ill,0
+15,身体,shēntǐ,"the body, one's health, in person",0
+15,痒,yǎng,itch,0
+15,过敏,guòmǐn,"oversensitive, allergic, allergy",0
+15,药店,yàodiàn,pharmacy,0
+15,健康,jiànkāng,"health, healthy",0
+15,保险,bǎoxiǎn,"insurance, to insure, safe, secure, be sure, be bound to",0
+15,赶快,gǎnkuài,"at once, immediately",0
+15,要不然,yàobùrán,"otherwise, or else, or",0
+15,越来越,yuèláiyuè,more and more,0
+15,上次,shàngcì,last time,0
+15,休息,xiūxi,"rest, to rest",0
+15,懒,lǎn,"lazy, languid, listless",0
+15,再说,zàishuō,"to say again, to put off a discussion until later, moreover, what's more, besides",0
+15,乱,luàn,"confusion, state of chaos, revolt",0
+16,同,tóng,"same, similar; together with",0
+16,印象,yìnxiàng,impression,0
+16,成,chéng,"completed, finished, fixed",0
+16,演,yǎn,"perform, put on; exercise",0
+16,费,fèi,"expenses, expenditures, fee",0
+16,力气,lìqi,strength,0
+16,俩,liǎ,"two, pair",0
+16,后天,hòutiān,"the day after tomorrow, post-natal, acquired (not innate), a posteriori",0
+16,一言为定,yīyánwéidìng,"one word and it's settled (idiom), It's a deal!, That's settled then.",0
+16,记得,jìde,to remember,0
+16,想起来,xiǎngqilai,"to remember, to recall",0
+16,号码,hàomǎ,number,0
+16,搬,bān,"transfer, move, remove, shift",0
+16,打扫,dǎsǎo,"to clean, to sweep",0
+16,整理,zhěnglǐ,"to arrange, to tidy up, to sort out, to straighten out, to list systematically, to collate (data, files), to pack (luggage)",0
+16,房间,fángjiān,room,0
+16,旅行,lǚxíng,"to travel, journey, trip",0
+17,吵,chǎo,"argue, dispute; disturb, annoy",0
+17,连,lián,"join, connect; continuous; even",0
+17,做饭,zuòfàn,"to prepare a meal, to cook",0
+17,报纸,bàozhǐ,"newspaper, newsprint",0
+17,广告,guǎnggào,"to advertise, a commercial, advertisement",0
+17,附近,fùjìn,"(in the) vicinity, nearby, neighboring, next to",0
+17,套,tào,"case, cover, wrapper, envelope",0
+17,公寓,gōngyù,"apartment building, block of flats",0
+17,走路,zǒulù,"to walk, to go on foot",0
+17,分钟,fēnzhōng,minute,0
+17,卧室,wòshì,bedroom,0
+17,厨房,chúfáng,kitchen,0
+17,卫生间,wèishēngjiān,"bathroom, toilet, WC",0
+17,客厅,kètīng,"drawing room (room for arriving guests), living room",0
+17,家具,jiājù,furniture,0
+17,一房一厅,yīfángyītīng,one bedroom and one living room,0
+17,干净,gānjìng,"clean, neat",0
+17,沙发,shāfā,"sofa (loanword), (Internet slang) the first reply or replier to a forum post",0
+17,饭桌,fànzhuō,dining table,0
+17,椅子,yǐzi,chair,0
+17,书桌,shūzhuō,desk,0
+17,书架,shūjià,bookshelf,0
+17,那里,nàli,"there, that place; there, that place, also written 那里",0
+17,安静,ānjìng,"quiet, peaceful, calm",0
+17,房租,fángzū,rent for a room or house,0
+17,元,yuán,first; dollar; origin; head,0
+17,美元,měiyuán,"American dollar, US dollar",0
+17,人民币,rénmínbì,"Renminbi (RMB), Chinese Yuan (CNY)",0
+17,人民,rénmín,the people,0
+17,币,bì,"currency, coins, legal tender",0
+17,差不多,chàbuduō,"almost, nearly, more or less, about the same, good enough, not bad",0
+17,押金,yājīn,"deposit, down payment",0
+17,当,dāng,"bear, accept, undertake; just",0
+17,另外,lìngwài,"additional, in addition, besides, separate, other, moreover, furthermore",0
+17,准,zhǔn,"approve, allow, permit; in accord",0
+17,养,yǎng,"raise, rear, bring up; support",0
+17,宠物,chǒngwù,house pet,0
+18,当然,dāngrán,"only natural, as it should be, certainly, of course, without doubt",0
+18,胖,pàng,"fat, obese; fatty",0
+18,怕,pà,"to fear, be afraid of; apprehensive",0
+18,简单,jiǎndān,"simple, not complicated",0
+18,跑步,pǎobù,"to run, to jog, (military) to march at the double",0
+18,跑,pǎo,"run, flee, leave in hurry",0
+18,难受,nánshòu,"to feel unwell, to suffer pain, to be difficult to bear",0
+18,网球,wǎngqiú,"tennis, tennis ball",0
+18,拍,pāi,"clap, tap, beat; beat or rhythm",0
+18,篮球,lánqiú,basketball,0
+18,游泳,yóuyǒng,"swimming, to swim",0
+18,危险,wēixiǎn,"danger, dangerous",0
+18,淹死,yānsǐ,to drown,0
+18,愿意,yuànyì,"to wish, to want, ready, willing (to do sth)",0
+18,为了,wèile,"in order to, for the purpose of, so as to",0
+18,提高,tígāo,"to raise, to increase, to improve",0
+18,水平,shuǐpíng,"level (of achievement etc), standard, horizontal",0
+18,足球,zúqiú,"soccer ball, a football, soccer, football",0
+18,比赛,bǐsài,"competition (sports etc), match",0
+18,国际,guójì,international,0
+18,美式,měishì,American style,0
+18,脚,jiǎo,"leg, foot; base, leg, foundation",0
+18,踢,tī,kick,0
+18,手,shǒu,hand,0
+18,抱,bào,"embrace, hold in arms, enfold",0
+18,压,yā,press; oppress; crush; pressure,0
+18,被,bèi,passive indicator 'by'; bedding,0
+18,担心,dānxīn,"anxious, worried, uneasy, to worry, to be anxious",0
+18,棒,bàng,"stick, club, truncheon; hit",0
+18,运动服,yùndòngfú,sportswear,0
+18,半天,bàntiān,"half of the day, a long time, quite a while, midair",0
+19,马上,mǎshàng,"at once, right away, immediately, on horseback (i.e. by military force)",0
+19,放假,fàngjià,to have a holiday or vacation,0
+19,假,jiǎ,"falsehood, deception; vacation",0
+19,公司,gōngsī,"(business) company, company, firm, corporation, incorporated",0
+19,实习,shíxí,"to practice, field work, to intern, internship",0
+19,打工,dǎgōng,"to work a temporary or casual job, (of students) to have a job outside of class time, or during vacation",0
+19,计划,jìhuà,"plan, project, program, to plan, to map out",0
+19,暑假,shǔjià,summer vacation,0
+19,打算,dǎsuàn,"to plan, to intend, to calculate, plan, intention, calculation",0
+19,父母,fùmǔ,"father and mother, parents",0
+19,首都,shǒudū,capital (city),0
+19,政治,zhèngzhì,"politics, political",0
+19,文化,wénhuà,"culture, civilization, cultural",0
+19,名胜古迹,míngshènggǔjì,historical sites and scenic spots,0
+19,有名,yǒumíng,"famous, well-known",0
+19,导游,dǎoyóu,"tour guide, guidebook, to conduct a tour",0
+19,护照,hùzhào,passport,0
+19,订,dìng,draw up agreement; arrange,0
+19,签证,qiānzhèng,"visa, certificate, to certify",0
+19,旅行社,lǚxíngshè,travel agency,0
+19,长城,chángchéng,the Great Wall,0
+19,香港,xiānggǎng,Hong Kong,0
+19,台北,táiběi,"Taibei or Taipei, capital of Taiwan",0
+19,初,chū,"beginning, initial, primary",0
+19,单程,dānchéng,one way (ticket),0
+19,往返,wǎngfǎn,"to go back and forth, to go to and fro, round trip",0
+19,航空,hángkōng,aviation,0
+19,查,chá,"investigate, examine, seek into",0
+19,航班,hángbān,"scheduled flight, flight number, plane, scheduled sailing, sailing number, passenger ship",0
+19,千,qiān,"thousand; many, numerous; very; (Cant.) a cheater, swindler",0
+19,直飞,zhífēi,"to fly directly, direct flight",0
+19,打折,dǎzhé,to give a discount,0
+19,转机,zhuǎnjī,"(to take) a turn for the better, to change planes",0
+19,靠,kào,"lean on, trust, depend on; near",0
+19,窗户,chuānghu,window,0
+19,走道,zǒudào,"pavement, sidewalk, path, walk, footpath, aisle",0
+19,旅馆,lǚguǎn,hotel,0
+19,中国国际航空公司,zhōngguó guójì hángkōng gōngsī,Air China Ltd.,0
+19,西北航空公司,xīběi hángkōng gōngsī,Northwest Airlines,0
+20,行李,xíngli,luggage,0
+20,托运,tuōyùn,"to consign (goods), to check through (baggage)",0
+20,包,bāo,"wrap, pack, bundle; package",0
+20,箱子,xiāngzi,"suitcase, chest, box, case, trunk",0
+20,超重,chāozhòng,"overweight (baggage, freight)",0
+20,超,chāo,"jump over, leap over; surpass",0
+20,登机牌,dēngjīpái,boarding pass,0
+20,牌,pái,"signboard, placard",0
+20,登机口,dēngjīkǒu,departure gate (aviation),0
+20,哭,kū,"weep, cry, wail",0
+20,地,"de, dì","earth; soil, ground; region",0
+20,照顾,zhàogu,"to take care of, to show consideration, to attend to, to look after",0
+20,起飞,qǐfēi,(of an aircraft) to take off,0
+20,小心,xiǎoxīn,"to be careful, to take care",0
+20,一路平安,yīlùpíng'ān,"to have a pleasant journey, Bon voyage!",0
+20,叔叔,shūshu,"father's younger brother, uncle, undefined",0
+20,阿姨,āyí,"maternal aunt, step-mother, childcare worker, nursemaid, woman of similar age to one's parents (term of address used by child)",0
+20,欢迎,huānyíng,"to welcome, welcome",0
+20,瘦,shòu,"thin, emaciated, lean; meager",0
+20,爷爷,yéye,"(coll.) father's father, paternal grandfather",0
+20,奶奶,nǎinai,"(informal) grandma (paternal grandmother), (respectful) mistress of the house, (coll.) boobies, breasts",0
+20,菜单,càidān,menu,0
+20,鸡,jī,chicken,0
+20,清蒸,qīngzhēng,steamed in broth,0
+20,味道,wèidao,"flavor, smell, hint of",0
+20,烤鸭,kǎoyā,roast duck,0
+20,首都机场,shǒudūjīchǎng,"Beijing airport (PEK), also translated as Capital airport",0
