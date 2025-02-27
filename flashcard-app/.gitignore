@@ -1,2 +1,3 @@
 venv
 config
+src/__pycache__
