@@ -3,15 +3,18 @@ from tkinter import messagebox
 from utils import convert_lesson_string_to_list
 
 def create_main_screen(root):
-    global label, entry, button, checkbox_frame, hanzi_var, pinyin_var, translations_var
+    global lesson_question_label, entry, review_question_label, button, checkbox_frame, hanzi_var, pinyin_var, translations_var
 
     large_font = ("Helvetica", 16)
 
-    label = tk.Label(root, text="What lessons are you reviewing? (ex. 1, 4-8, 13)", font=large_font)
-    label.pack(pady=10)
+    lesson_question_label = tk.Label(root, text="What lessons are you reviewing? (ex. 1, 4-8, 13)", font=large_font)
+    lesson_question_label.pack(pady=10)
 
     entry = tk.Entry(root, width=50, font=large_font)
     entry.pack(pady=10)
+
+    review_question_label = tk.Label(root, text="What are you reviewing?", font=large_font)
+    review_question_label.pack(pady=10)
 
     checkbox_frame = tk.Frame(root)
     checkbox_frame.pack(pady=10)
@@ -34,10 +37,12 @@ def create_main_screen(root):
 def submit_button_click(root):
     lessons_selected = entry.get()
     lessons_list = convert_lesson_string_to_list(lessons_selected)
-    if lessons_list:
+    if lessons_list and (hanzi_var.get() + pinyin_var.get() + translations_var.get() > 0):
         show_new_screen(lessons_list, root)
-    else:
+    elif not lessons_list:
         messagebox.showwarning("Input Error", "Please enter a valid lesson string (e.g., 1, 4-8, 13)")
+    else:
+        messagebox.showwarning("Input Error", "Please select what you would like to review")
 
 def show_new_screen(selected_lessons, root):
     for widget in root.winfo_children():
@@ -68,7 +73,7 @@ def show_main_screen(root):
     for widget in root.winfo_children():
         widget.pack_forget()
 
-    label.pack(pady=10)
+    lesson_question_label.pack(pady=10)
     entry.pack(pady=10)
     checkbox_frame.pack(pady=10)
     button.pack(pady=10)
